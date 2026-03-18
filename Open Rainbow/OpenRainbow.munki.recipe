@@ -18,6 +18,8 @@
 			<array>
 				<string>testing</string>
 			</array>
+			<key>category</key>
+			<string>telephony</string>
 			<key>description</key>
 			<string>Rainbow by Alcatel-Lucent Enterprise is a communications and telephony solution that connects your employees and your business ecosystem, simplifies your communications and secures your data.</string>
 			<key>developer</key>
