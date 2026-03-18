@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads Rainbow and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.stefanhirt.munki.Rainbow</string>
+	<string>com.github.stefanhirt.munki.OpenRainbow</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
@@ -19,7 +19,9 @@
 				<string>testing</string>
 			</array>
 			<key>description</key>
-			<string>Rainbow application</string>
+			<string>Rainbow by Alcatel-Lucent Enterprise is a communications and telephony solution that connects your employees and your business ecosystem, simplifies your communications and secures your data.</string>
+			<key>developer</key>
+			<string>Alcatel Lucent Enterprise</string>
 			<key>display_name</key>
 			<string>Rainbow</string>
 			<key>name</key>
