@@ -27,7 +27,7 @@
 		</dict>
 	</dict>
 	<key>ParentRecipe</key>
-	<string>com.github.markkenny.autopkg-recipes.download.Rainbow</string>
+	<string>com.github.markkenny.autopkg.download.Rainbow</string>
 	<key>Process</key>
 	<array>
 		<dict>
